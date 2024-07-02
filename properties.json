@@ -1,0 +1,6 @@
+[
+    {"id": 1, "city": "Denver", "type": "apartment", "price": 1200, "bedrooms": 2},
+    {"id": 2, "city": "Denver", "type": "house", "price": 2500, "bedrooms": 4},
+    {"id": 3, "city": "Boulder", "type": "apartment", "price": 1400, "bedrooms": 3},
+    {"id": 4, "city": "Aurora", "type": "house", "price": 1800, "bedrooms": 3}
+]
